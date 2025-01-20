@@ -67,3 +67,4 @@ int main() {
     gpio_put(BUZZER, 0);
 
     printf("Sistema iniciado. Aguardando comandos...\n");
+}
